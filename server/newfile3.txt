@@ -1,0 +1,1 @@
+insidetestUPDATE taskdetails SET AssignedUser = '',Status='open' WHERE TaskName = 'test'insidetestUPDATE taskdetails SET AssignedUser = '',Status='open' WHERE TaskName = 'test'insidetempUPDATE taskdetails SET AssignedUser = '',Status='open' WHERE TaskName = 'temp'

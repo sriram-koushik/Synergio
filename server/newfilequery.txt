@@ -1,0 +1,1 @@
+UPDATE taskdetails SET AssignedUser = 'hf2', Status='ongoing' WHERE TaskName = 'test'UPDATE taskdetails SET AssignedUser = 'hf2', Status='ongoing' WHERE TaskName = 'test'UPDATE taskdetails SET AssignedUser = 'hf3', Status='ongoing' WHERE TaskName = 'temp'
